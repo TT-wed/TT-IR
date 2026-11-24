@@ -7,4 +7,4 @@
 - [桑基流向图](sankeydiagram.md) — `sankeydiagram` · [源代码](https://github.com/rawgraphs/rawgraphs-charts/tree/cade3b6e1b4d35d365440b1365d51b0dd48c9bce/src/sankeydiagram)
 - [冲积流图](alluvialdiagram.md) — `alluvialdiagram` · [源代码](https://github.com/rawgraphs/rawgraphs-charts/tree/cade3b6e1b4d35d365440b1365d51b0dd48c9bce/src/alluvialdiagram)
 
-[返回03总览](../README.md) · [RAWGraphs 31图总表](../06-31图表检索总表.md)
+[返回04总览](../README.md) · [RAWGraphs 31图总表](../06-31图表检索总表.md)
