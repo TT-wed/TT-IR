@@ -1,1 +1,0 @@
-test_id,style_id,style_version,reference_set,model_name,model_version,prompt_format,prompt_version,theme,subject,scene,output_medium,aspect_ratio,seed_if_available,output_path,assessed_system,rule_id,score_0_to_5,weight,hard_rule_breach,theme_accuracy,reviewer_id,evidence,decision,limitations
